@@ -1,0 +1,6 @@
+export * from "./Header"
+export * from "./Content"
+export * from "./NFTCollectionDetail"
+export * from "./NFTCollectionListItem"
+export * from "./NFTCollectionList"
+export * from "./Footer"

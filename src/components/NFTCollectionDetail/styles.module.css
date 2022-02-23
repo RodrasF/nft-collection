@@ -1,0 +1,16 @@
+.item {
+    border-style: none;
+    padding: 5px;
+    width: 100%;
+    height: 120px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    color: teal;
+}
+
+.description {
+    font-size: small;
+}

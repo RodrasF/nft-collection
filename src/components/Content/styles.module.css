@@ -1,0 +1,6 @@
+.content {
+    height: 677px; /* Eww （＞人＜；）*/
+    margin: 50px 50px 50px 50px;
+    display: flex;
+    justify-content: center;
+}

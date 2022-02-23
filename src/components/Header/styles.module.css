@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: aquamarine;
+    height:40px;
+}
+
+.title {
+    margin: 0;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search_icon {
+    height: 100%;
+}
+
+.search_input {
+    color: inherit;
+    width: fit-content;
+}

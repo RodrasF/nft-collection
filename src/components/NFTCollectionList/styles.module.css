@@ -1,0 +1,25 @@
+.list {
+    display: flex;
+    flex-direction: column;
+
+    width: 40%;
+    height: 100%;
+    padding-left: 35px;
+    padding-right: 35px;
+    
+    list-style-type: none;  /* Remove bullets */
+    
+    overflow: hidden;
+    overflow-y: scroll;
+
+}
+
+.item {
+    width: 100%;
+
+    margin: 10px; /* Space between items */
+    
+    border: 2px;
+    border-style: solid;
+    border-color:teal;
+}
